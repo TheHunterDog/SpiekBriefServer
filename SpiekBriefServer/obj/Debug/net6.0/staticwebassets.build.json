@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IwP6f2cVnRWA3NDwVOFdTMsbye22Z2ZVl0msAX1zQMc=",
+  "Source": "SpiekBriefServer",
+  "BasePath": "_content/SpiekBriefServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
